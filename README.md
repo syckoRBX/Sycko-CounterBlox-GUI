@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/anim9r/BloxFun/main/AutoUpdate.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/syckoRBX/Sycko-CounterBlox-GUI/main/AutoUPDT"))()
